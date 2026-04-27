@@ -19,7 +19,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                  ◈  INCARNATION STATUS  ◈                ║
 ╠══════════════════════════════════════════════════════════╣
-║  Name        :  Naylannajwa                              ║
+║  Name        :  stell8rvon                              ║
 ║  Class       :  Developer · Open Source Constellation    ║
 ║  Rank        :  ✦ Heroic  →  Approaching Myth ✦          ║
 ║  Attributes  :  [Quick Learner] [Problem Solver]         ║
@@ -61,12 +61,12 @@
 
 | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
 | :---: | :---: |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Stats](https://github-readme-stats.vercel.app/api?username=stell8rvon&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stell8rvon&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
 | 🦑 **CONSTELLATION** | 🔥 **STREAKS** |
-| <img src="https://media.giphy.com/media/PTeydpTTa9am7wqEW7/giphy.gif" width="130" /> <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWJnN3lyNGQzczM4czdiNTdpZnppZjdzdnB0MHpleHc1ZzY0Njg4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7buttG0hB0x7ispUM/giphy.gif" width="260"/> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naylannajwa&theme=radical&hide_border=true&background=0d0d0d&ring=6ee7f7&fire=6ee7f7&currStreakLabel=6ee7f7)](https://git.io/streak-stats) |
+| <img src="https://media.giphy.com/media/PTeydpTTa9am7wqEW7/giphy.gif" width="130" /> <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWJnN3lyNGQzczM4czdiNTdpZnppZjdzdnB0MHpleHc1ZzY0Njg4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7buttG0hB0x7ispUM/giphy.gif" width="260"/> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stell8rvon&theme=radical&hide_border=true&background=0d0d0d&ring=6ee7f7&fire=6ee7f7&currStreakLabel=6ee7f7)](https://git.io/streak-stats) |
 
 ## ◈ CONTRIBUTION GRAPH [FINDING FRAGMENTS]
-![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=naylannajwa&theme=radical&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Records)
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=stell8rvon&theme=radical&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Records)
 
 ---
 
@@ -74,9 +74,9 @@
 ## ◈ [CONTRIBUTION FRAGMENTS]
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stell8rvon/stell8rvon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stell8rvon/stell8rvon/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/stell8rvon/stell8rvon/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -91,7 +91,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naylannajwa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Discord](https://img.shields.io/badge/Discord-4F5AE4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1067760902243368990)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@naylannajwa)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naylannajwa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stell8rvon)
 <br/>
 
 > **[The Fourth Wall is shaking slightly.]**
@@ -102,5 +102,5 @@
 <!-- LINE 8: Visitor Count -->
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=naylannajwa&style=flat&color=6ee7f7&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=stell8rvon&style=flat&color=6ee7f7&label=visitors)
 </div>
